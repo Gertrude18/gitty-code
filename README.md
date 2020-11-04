@@ -1,0 +1,2 @@
+# gitty-code
+Git session
